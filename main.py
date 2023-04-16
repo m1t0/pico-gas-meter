@@ -1,5 +1,5 @@
 #
-# Copyright 2012,2013 Michael Büttner
+# Copyright 2022,2023 Michael Büttner
 #
 
 # This file is part of pico-gas-meter.
@@ -43,19 +43,17 @@
 # https://datasheets.raspberrypi.com
 
 
+# https://github.com/dhylands/rshell
 # rshell
-# help
-# boards
-# repl
-# ls /pyboard
-# cp main.py /pyboard/main.py
+#   help
+#   boards
+#   repl
+#   ls /pyboard
+#   cp main.py /pyboard/main.py
 # Useful control commands:
 # CTRL-C -- interrupt a running program
 # CTRL-D -- on a blank line, do a soft reset of the board
 # CTRL-E -- on a blank line, enter paste mode
-
-
-
 
 #
 #  from machine import Pin, Timer
